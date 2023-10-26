@@ -1,0 +1,6 @@
+*.html
+*.blade.php
+*.tmpl
+*.vue
+*.jsx
+*.tsx
