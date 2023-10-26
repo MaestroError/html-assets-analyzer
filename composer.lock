@@ -1,0 +1,62 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "bae8b7df0c22d55034e9cb989b8e23db",
+    "packages": [
+        {
+            "name": "maestroerror/file-manager",
+            "version": "0.3.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/MaestroError/fileManager.git",
+                "reference": "9caf6205ee51a7a152263988bc31fbb2b049cfe4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/MaestroError/fileManager/zipball/9caf6205ee51a7a152263988bc31fbb2b049cfe4",
+                "reference": "9caf6205ee51a7a152263988bc31fbb2b049cfe4",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.4"
+            },
+            "require-dev": {
+                "squizlabs/php_codesniffer": "*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "maestroerror\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "maestroerror",
+                    "email": "revaz.gh@gmail.com"
+                }
+            ],
+            "description": "Easy to use, chainable PHP fileManager class with all main features",
+            "support": {
+                "issues": "https://github.com/MaestroError/fileManager/issues",
+                "source": "https://github.com/MaestroError/fileManager/tree/0.3.3"
+            },
+            "time": "2023-10-26T13:59:59+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

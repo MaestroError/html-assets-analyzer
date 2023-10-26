@@ -1,0 +1,5 @@
+{
+    "require": {
+        "maestroerror/file-manager": "^0.3.3"
+    }
+}
