@@ -1,0 +1,34 @@
+{
+  "server/app/contact/page.js": [
+    "assets/globe.png",
+    "assets/icons/minus.svg",
+    "assets/icons/plus.svg",
+    "assets/plus.svg"
+  ],
+  "server/chunks/6332.js": [
+    "assets/Originals/blogs-OGs/image.png",
+    "assets/Originals/homepage-OGs/image.png"
+  ],
+  "static/chunks/app/about/page-8aad26e53a5267b2.js": [
+    "assets/Originals/blogs-OGs/image.png",
+    "assets/Originals/homepage-OGs/image.png"
+  ],
+  "static/chunks/app/contact/page-a7f1b65918a16054.js": [
+    "assets/globe.png",
+    "assets/icons/minus.svg",
+    "assets/icons/plus.svg",
+    "assets/plus.svg"
+  ],
+  "static/chunks/app/engagement-models/page-e31a9ccd47d2c814.js": [
+    "assets/Originals/blogs-OGs/image.png",
+    "assets/Originals/homepage-OGs/image.png"
+  ],
+  "static/chunks/app/services/[slug]/page-6d3bf1f53c782d64.js": [
+    "assets/Originals/blogs-OGs/image.png",
+    "assets/Originals/homepage-OGs/image.png"
+  ],
+  "static/css/d3e383b9ef67ddcb.css": [
+    "assets/Originals/blogs-OGs/2.png",
+    "assets/Originals/case-studie-OGs/12.png"
+  ]
+}

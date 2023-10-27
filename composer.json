@@ -1,5 +1,10 @@
 {
-    "require": {
-        "maestroerror/file-manager": "^0.3.3"
+  "require": {
+    "maestroerror/file-manager": "^0.3.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "maestroerror\\": "src/"
     }
+  }
 }

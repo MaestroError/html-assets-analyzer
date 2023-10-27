@@ -1,0 +1,12 @@
+{
+  "src/Components/Pages/Contact/Location/index.tsx": [
+    "assets/globe.png",
+    "assets/icons/minus.svg",
+    "assets/icons/plus.svg",
+    "assets/plus.svg"
+  ],
+  "src/Components/UI/LetsTalkSectionDecorations/index.tsx": [
+    "assets/Originals/blogs-OGs/image.png",
+    "assets/Originals/homepage-OGs/image.png"
+  ]
+}
